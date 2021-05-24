@@ -1,0 +1,92 @@
+.h1{
+	position: relative;
+	top: 100px;
+	left: 250px;
+}
+.h11{
+	position: relative;
+	top: 100px;
+	left: 250px;
+	color: gray;
+}
+.sentence{
+	position: relative;
+	top: 100px;
+	left: 25px;
+	color: lightgreen;
+}
+.sentence2{
+	position: relative;
+	top: 53px;
+	left: 150px;
+	color: green;
+}
+.sentence3{
+	position: relative;
+	top: 6px;
+	left: 275px;
+	color: yellow;
+}
+.sentence4{
+	position: relative;
+	top: -41px;
+	left: 370px;
+	color: darkblue;
+}
+.sentence5{
+	position: relative;
+	top: -87px;
+	left: 460px;
+	color: aqua;
+}
+.sentence6{
+	position: relative;
+	top: -104px;
+	left: 25px;
+	color: darkorange;
+}
+.sentence7{
+	position: relative;
+	top: -151px;
+	left: 325px;
+	color: blue;
+}
+.sentence8{
+	position: relative;
+	top: -198px;
+	left: 410px;
+	color: orange;
+}
+.sentence9{
+	position: relative;
+	top: -215px;
+	left: 25px;
+	color: darkgreen;
+}
+.img1{
+	position: relative;
+	top: -265px;
+	left: 250px;
+	width: 200px;
+	height: 200px;
+}
+.img2{
+	position: relative;
+	top: -290px;
+	left: 250px;
+	width: 200px;
+	height: 200px;
+}
+a{
+	position: relative;
+	bottom: 400px;
+	right: 380px;
+	color: lightgray;
+}
+.img3{
+	position: relative;
+	top: 100px;
+	left: 25px;
+	width: 200px;
+	height: 200px;
+}
